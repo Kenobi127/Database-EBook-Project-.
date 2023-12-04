@@ -1,4 +1,4 @@
--- Class Project.sql
+-- Create&LoadDB.sql
 -- MySQL file that resets the database to its original state
 DROP DATABASE IF EXISTS Leaflet;
 CREATE DATABASE IF NOT EXISTS Leaflet;
