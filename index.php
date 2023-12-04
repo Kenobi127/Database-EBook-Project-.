@@ -1,5 +1,5 @@
 <?php
-	//suppliers_parts leaflet
+	//takes you to the folder leaflet
 	if (!empty($_SERVER['HTTPS']) && ('on' == $_SERVER['HTTPS'])) {
 		$uri = 'https://';
 	} else {
