@@ -1,4 +1,4 @@
-# Database-EBook-Project-.
+# Database-EBook-Project-leaflet.
 In order to run this website you need XAMPP v3.3.0.
 First start Apache and MySQL servers in XAMPP.
 Second admin the MySQL server in XAMPP and import the file Create&LoadDB.sql.
